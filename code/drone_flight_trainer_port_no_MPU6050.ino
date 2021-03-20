@@ -6,7 +6,7 @@ int analogPin[n] = {A0, A1, A2, A3}; // eğer n = 4 ise A2 ve A3'ü de ekleyin
 byte kanal[n];
 const byte channel[4] = {0, 1, 2, 3}; // Gabriel'ın PPM kütüphanesine erişecek kanalları tanımla
 // The channel us values below are for Radiomaster TX16S radio (remote) controller
-const unsigned int MAX_CHANNEL_VAL = 2000, MIN_CHANNEL_VAL = 1000, MIDDLE_CHANNEL_VAL = 1500;
+const unsigned int MAX_CHANNEL_VAL = 2100, MIN_CHANNEL_VAL = 900, MIDDLE_CHANNEL_VAL = 1500;
 unsigned int PPMsignal[4] = {MIN_CHANNEL_VAL, MIDDLE_CHANNEL_VAL, MIDDLE_CHANNEL_VAL, MIDDLE_CHANNEL_VAL};
 
 void setup() {
