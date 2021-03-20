@@ -37,7 +37,8 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 *Şekil 4: Radiomaster TX16S kumanda *Master* rolünde, içerisinde bir tane Arduino Pro Mini olan el-yapımı beyaz kumanda ise *Slave* rolünde. Radiomaster TX16S kumanda dahili RF modülü ile XK X250 dronuna bağlı. Trainer port ile kontrol el-yapımı kumandaya geçirilebilir ve dronun kontrolü beyaz kumanda ile yapılabilir.*
 
 ## Notlar
-**Not 1:** İnternette elimizdeki Radiomaster TX16S radyo kumandanın XK X250 dronuna bağlanma (bind) videosuna rasgelmedim. Araştırırken [5]'de Jumper T16 kumandasına bağlandığı videoyu gördüm. Jumper'da Radiomaster kumanda gibi multiprotokol bir kumanda, videoya baktığımda Jumper T16'nın arayüz tasarımının Radiomaster TX16S ile nerdeyse aynı olduğunu görünce videoyu dikkatlice dinledim ve XK X250'yi Radiomaster TX16S'e bağlamayı başardım. 
+**Not 1:** İnternette elimizdeki Radiomaster TX16S radyo kumandanın XK X250 dronuna bağlanma (bind) videosuna rasgelmedim. Araştırırken [5]'de Jumper T16 kumandasına bağlandığı videoyu gördüm. Jumper'da Radiomaster kumanda gibi multiprotokol bir kumanda, videoya baktığımda Jumper T16'nın arayüz tasarımının Radiomaster TX16S ile nerdeyse aynı olduğunu görünce videoyu dikkatlice dinledim ve XK X250'yi Radiomaster TX16S'e bağlamayı başardım.
+ 
 **Not 2:** Radiomaster TX16S'in trainer port ayarlarını aktif hale getirmek için [6]'ya bakabilirsiniz.
 ## Dipnotlar
 <sup>1</sup> Kullanılan joystick'e göre **SW** girişinin default değeri değişebilir, bu yüzden multimetre veya Arduino seri port ile push-button'a basılmadığında oluşan değeri test ediniz.
