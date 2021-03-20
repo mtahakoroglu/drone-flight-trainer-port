@@ -43,13 +43,14 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 <sup>1</sup> Kullanılan joystick'e göre **SW** girişinin default değeri değişebilir, bu yüzden multimetre veya Arduino seri port ile push-button'a basılmadığında oluşan değeri test ediniz.
 
 ## Video
-Videoyu aşağıdaki resime tıklayarak izleyebilirsiniz. 
+Videoyu aşağıdaki resime tıklayarak izleyebilirsiniz.
+
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/5JFQLFBPRCQ/mq3.jpg?sqp=CMi22YIG&rs=AOn4CLDbKrRaHE5hJO3Y5sD3z2n9flmOpA)](https://youtu.be/5JFQLFBPRCQ)</br></br>
 
 ## Kaynaklar
 [1] https://github.com/ElectricRCAircraftGuy/eRCaGuy_PPM_Writer</br>
 [2] https://www.direnc.net/22k-potansiyometre-potansiyometre-spike-55641-56-B.jpg</br>
 [3] https://market.projehocam.com/wp-content/uploads/joystick.jpg</br>
-[4] https://www.pilottr.com/urun/xk-alien-x250-drone.html
-[5] https://www.youtube.com/watch?v=615AU5EjPjU&list=LL&index=14
-[6] https://www.youtube.com/watch?v=LYvomCtAg7g&list=LL&index=2
+[4] https://www.pilottr.com/urun/xk-alien-x250-drone.html</br>
+[5] https://www.youtube.com/watch?v=615AU5EjPjU&list=LL&index=14</br>
+[6] https://www.youtube.com/watch?v=LYvomCtAg7g&list=LL&index=2</br>
