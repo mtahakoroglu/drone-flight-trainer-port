@@ -1,6 +1,6 @@
 #include <eRCaGuy_PPM_Writer.h> // PPM sinyalini oluşturan kütüphane
-const int n = 4; // kanal sayısı, drone projesi için 4 olmalı
-int analogPin[n] = {A0, A1, A2, A3}; // eğer n = 4 ise A2 ve A3'ü de ekleyin
+const int n = 4; // kanal sayısı
+int analogPin[n] = {A0, A1, A2, A3};
 uint16_t kanal[n];
 const byte channel[4] = {0, 1, 2, 3}; // Gabriel'ın PPM kütüphanesine erişecek kanalları tanımla
 const unsigned int MAX_CHANNEL_VAL = 2100, MIN_CHANNEL_VAL = 900, MIDDLE_CHANNEL_VAL = 1500;
