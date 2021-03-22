@@ -46,7 +46,7 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 ## Video
 Videoyu aşağıdaki resime tıklayarak izleyebilirsiniz.
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/5JFQLFBPRCQ/mq3.jpg?sqp=CLi93oIG&rs=AOn4CLCyL-NuIJtAfUGrKFj0DoJPhloY9g)](https://youtu.be/5JFQLFBPRCQ)</br></br>
+[![IMAGE ALT TEXT HERE](figure/thumbnail.jpg)](https://youtu.be/5JFQLFBPRCQ)</br></br>
 
 ## Kaynaklar
 [1] https://github.com/ElectricRCAircraftGuy/eRCaGuy_PPM_Writer</br>
