@@ -1,4 +1,4 @@
-#include <eRCaGuy_PPM_Writer.h> // PPM sinyalini oluşturan kütüphane
+#include <eRCaGuy_PPM_Writer.h> // PPM sinyalini oluşturan kütüphane - https://github.com/ElectricRCAircraftGuy/eRCaGuy_PPM_Writer
 const int n = 4; // kanal sayısı
 int analogPin[n] = {A0, A1, A2, A3};
 uint16_t kanal[n];
