@@ -42,12 +42,11 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 **Not 2:** Radiomaster TX16S'in trainer port ayarlarını aktif hale getirmek için [6]'ya bakabilirsiniz.
 ## Dipnotlar
 <sup>1</sup> Kullanılan joystick'e göre **SW** girişinin default değeri değişebilir, bu yüzden multimetre veya Arduino seri port ile push-button'a basılmadığında oluşan değeri test ediniz.
-
 ## Video
-Videoyu aşağıdaki resime tıklayarak izleyebilirsiniz.
-
-[![IMAGE ALT TEXT HERE](figure/thumbnail.jpg)](https://youtu.be/5JFQLFBPRCQ)</br></br>
-
+Videoları aşağıdaki resime tıklayarak izleyebilirsiniz.</br>
+[![IMAGE ALT TEXT HERE](figure/thumbnail.jpg)](https://youtu.be/5JFQLFBPRCQ)</br>
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/07eZBFFlbOA/mq2.jpg?sqp=CJCtrYQG&rs=AOn4CLAMQlXDVEITrjRn1xGCRVdlSojnbA)](https://youtu.be/07eZBFFlbOA)</br>
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/xi2hQdr9yak/mq1.jpg?sqp=COSqrYQG&rs=AOn4CLB7qEIodog_Pb0pberZHYs1qoQP2w)](https://youtu.be/xi2hQdr9yak)
 ## Kaynaklar
 [1] https://github.com/ElectricRCAircraftGuy/eRCaGuy_PPM_Writer</br>
 [2] https://www.direnc.net/22k-potansiyometre-potansiyometre-spike-55641-56-B.jpg</br>
