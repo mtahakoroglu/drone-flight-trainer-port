@@ -45,8 +45,9 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 ## Video
 Videoları aşağıdaki resime tıklayarak izleyebilirsiniz.</br>
 [![IMAGE ALT TEXT HERE](figure/thumbnail.jpg)](https://youtu.be/5JFQLFBPRCQ)</br>
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/07eZBFFlbOA/mq2.jpg?sqp=CJCtrYQG&rs=AOn4CLAMQlXDVEITrjRn1xGCRVdlSojnbA)](https://youtu.be/07eZBFFlbOA)</br>
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/xi2hQdr9yak/mq1.jpg?sqp=COSqrYQG&rs=AOn4CLB7qEIodog_Pb0pberZHYs1qoQP2w)](https://youtu.be/xi2hQdr9yak)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/07eZBFFlbOA/mq2.jpg?sqp=CJzytoQG&rs=AOn4CLCOEiNC0uOX7FoIuKw97OxBjq5IRA)](https://youtu.be/07eZBFFlbOA)</br>
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/xi2hQdr9yak/mq2.jpg?sqp=CJzytoQG&rs=AOn4CLAVthRAGITYoICblwl4ON-6Lc2HOQ)](https://youtzu.bev/xi2hQdr9yak)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/grnbU9gR0Gk/mqdefault.webp?time=1619900700000&sqp=CJzytoQG&rs=AOn4CLBUtyEzzIssoDcfGecHnH7cXzdIyg)](https://www.youtube.com/watch?v=grnbU9gR0Gk&t=5s)
 ## Kaynaklar
 [1] https://github.com/ElectricRCAircraftGuy/eRCaGuy_PPM_Writer</br>
 [2] https://www.direnc.net/22k-potansiyometre-potansiyometre-spike-55641-56-B.jpg</br>
