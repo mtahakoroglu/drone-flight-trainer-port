@@ -45,7 +45,7 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 ## Video
 Videoları aşağıdaki resime tıklayarak izleyebilirsiniz.</br>
 [![IMAGE ALT TEXT HERE](figure/thumbnail.jpg)](https://youtu.be/5JFQLFBPRCQ)</br>
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/07eZBFFlbOA/mq2.jpg?sqp=CJzytoQG&rs=AOn4CLCOEiNC0uOX7FoIuKw97OxBjq5IRA)](https://youtu.be/07eZBFFlbOA)</br>
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/07eZBFFlbOA/mq2.jpg?sqp=CJzytoQG&rs=AOn4CLCOEiNC0uOX7FoIuKw97OxBjq5IRA)](https://www.youtube.com/watch?v=07eZBFFlbOA)</br>
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/xi2hQdr9yak/mq2.jpg?sqp=CJzytoQG&rs=AOn4CLAVthRAGITYoICblwl4ON-6Lc2HOQ)](https://youtzu.bev/xi2hQdr9yak)</br>
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/grnbU9gR0Gk/mqdefault.webp?time=1619900700000&sqp=CJzytoQG&rs=AOn4CLBUtyEzzIssoDcfGecHnH7cXzdIyg)](https://www.youtube.com/watch?v=grnbU9gR0Gk&t=5s)
 ## Kaynaklar
