@@ -18,6 +18,9 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 <img src="https://www.direnc.net/22k-potansiyometre-potansiyometre-spike-55641-56-B.jpg" alt="Potansiyometre" height="240"/> <img src="figure/potansiyometre_arduino_bağlantılar.jpg" alt="Arduino ile potansiyometre arasındaki bağlantılar." height="240"/>
 
 *Şekil 1: Potansiyometre ([2]'in izni ile) ve Arduino-potansiyometre bağlantıları.*
+<h2>Arduino Square Wave Generator Circuit</h2>
+<img src="https://drive.google.com/uc?export=view&amp;id=1aNT629k1EqD7sWTN0oWmcJzr_BxqHrAn" alt="Arduino kare dalga üreteci devre şeması" width="800" height="auto"></p>
+    
 ## Joystick
 İçinde iki tane potansiyometre barındıran bir joystick'in resmini Şekil 2'de görebilirsiniz. Her bir potansiyometrenin üretmiş olduğu sinyale *kanal sinyali* diyeceğiz. Kendi-kendini dengeleyen robot projesinde manuel kontrol için **iki** kanala (ileri-geri ve kendi ekseni etrafında dönme (i.e., spin)), dron projesinde ise minimum **dört** kanala (i.e., yukarı-aşağı (i.e., *throttle*), kendi ekseni etrafında dönme (i.e., *rudder* veya *yaw*), sağa-sola (*aileron* veya *roll*) ve ileri-geri (*elevator* veya *pitch*)) ihtiyaç duyulmaktadır.
 
